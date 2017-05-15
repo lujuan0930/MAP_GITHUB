@@ -1,6 +1,6 @@
 @echo on
 
-set PROJECT_HOME=E:\eclipse_Workspace\RAP
+set PROJECT_HOME=E:\Git_Workspace\MAP_GITHUB
 cd /d %PROJECT_HOME%
 
 rem 0) 打包ROOT.war,sleep 10s E:\eclipse_Workspace\RAP\target
